@@ -39,7 +39,7 @@ const projects = [
         id: 4,
         title: 'Portfolio personnel',
         technologies: ['React', 'TailwindCSS'],
-        demoLink: '#',
+        demoLink: 'https://harryhtddev.vercel.app/',
         image: portfolio,
         description: 'Un portfolio interactif et dynamique mettant en avant mes compétences et mes projets en développement web.',
     },
@@ -72,7 +72,7 @@ const projects = [
         title: 'Application web de création de CV',
         technologies: ['React', 'TailwindCSS','Next JS'],
         demoLink: '#',
-        image: cv,
+        image: https://cvbuildeasy.vercel.app/,
         description: 'Une application web permettant aux utilisateurs de créer et personnaliser leur CV plus facilement',
     }
 ];
