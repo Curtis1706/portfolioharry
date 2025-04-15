@@ -22,6 +22,8 @@ const skills = [
     { id: 7, name: "Laravel", image: imgLaravel },
     { id: 8, name: "PHP", image: imgPhp },
     { id: 9, name: "Python", image: imgPython },
+    { id: 10, name: "Next JS", image: imgNext },
+    { id: 11, name: "Typescript", image: imgTypescript },
 ];
 const experiences = [
     {
